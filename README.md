@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fabián Gómez</h1>
 <h3 align="center">A passionate fullstack developer from Argentina</h3>
 
-- 🌱 I’m currently learning **Django in Codo a Codo**
+- 🌱 I’m currently learning **Django in Codo a Codo and Computer Science in UBA**
 
 - 💬 Ask me about **js, html, css, python**
 
