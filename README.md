@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **fabiangl2011@gmail.com**
 
+- See my web CV: **<a>https://visionary-tanuki-ceec23.netlify.app</a>**
+
 - I like programming, football and eSports!
 
 - You will find most of my projects I make in my free time here!
